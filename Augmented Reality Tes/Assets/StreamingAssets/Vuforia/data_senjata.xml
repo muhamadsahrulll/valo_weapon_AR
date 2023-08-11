@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="bulldog" size="1.000000 0.772861" />
+    <ImageTarget name="vandal" size="1.000000 0.772861" />
+  </Tracking>
+</QCARConfig>
